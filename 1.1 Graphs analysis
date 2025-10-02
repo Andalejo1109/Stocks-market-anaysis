@@ -1,6 +1,8 @@
 Resumen de Análisis Gráfico de Activos (2022-2025)
-El análisis exploratorio revela que, desde 2022, el ETF tecnológico SMH (VanEck Semiconductors) ha sido el motor de rendimiento, 
+g1: El análisis exploratorio revela que, desde 2022, el ETF tecnológico SMH (VanEck Semiconductors) ha sido el motor de rendimiento, 
 mostrando el mayor crecimiento de capital (la línea más alta en el gráfico de Evolución de Precios), superando consistentemente a los demás activos. 
+
+g2 y g3:
 No obstante, esta rentabilidad viene acompañada del mayor riesgo, como se evidencia en la Distribución de Retornos Diarios y el Boxplot: 
 SMH exhibe la distribución más ancha y plana (mayor volatilidad) y el rango intercuartílico más grande (mayor dispersión central), 
 incluyendo algunos de los outliers de mayor magnitud (pérdidas y ganancias extremas). En contraste, los fondos de mercado amplio VTI y 
