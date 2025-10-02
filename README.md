@@ -44,28 +44,30 @@ The following R packages are essential for running the analysis:
 The analysis yields two key portfolio structures: the current allocation and the mathematically optimal allocation based on the historical data (Max Sharpe).
 
 1. Current Portfolio Metrics (Since 2022)
+   
 Metric	Value
-Annualized Return	[Insert retorno_anualizado value]
-Annualized Volatility (Risk)	[Insert riesgo_anualizado value]
-Sharpe Ratio	[Insert sharpe_ratio value]
-$10,000 Initial Investment Final Value	$[Insert valor_final value]
 
-2. Optimal Portfolio Weights (Maximum Sharpe Ratio)
+Annualized Return	[10.62%]
+Annualized Volatility (Risk)	[20.15%]
+Sharpe Ratio	[0.53]
+$10,000 Initial Investment Final Value	$[14.566,42]
+
+3. Optimal Portfolio Weights (Maximum return)
 This allocation maximizes the return for every unit of risk taken.
 
 Asset	Optimal Weight
-VTI	[Insert Optimal %]
-VOO	[Insert Optimal %]
-SPYG	[Insert Optimal %]
-SMH	[Insert Optimal %]
-BRK.B	[Insert Optimal %]
+VTI	[02 %]
+VOO	[02 %]
+SPYG	[0 %]
+SMH	[99.54 %]
+BRK.B	[042 %]
 
 Optimal Metrics:
 
 Metric	Value
-Annualized Return (Optimal)	[Insert retorno_optimo value]
-Annualized Volatility (Optimal)	[Insert riesgo_optimo value]
-Sharpe Ratio (Optimal)	[Insert sharpe_optimo value]
+Annualized Return (Optimal)	[13.18%]
+Annualized Volatility (Optimal)	[18.07%]
+Sharpe Ratio (Optimal)	[0.73]
 
 ## 📝 Code Snippets for Analysis
 The core of the analysis involves downloading the data and running the optimization functions.
