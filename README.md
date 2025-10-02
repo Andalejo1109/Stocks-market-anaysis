@@ -48,8 +48,11 @@ The analysis yields two key portfolio structures: the current allocation and the
 Metric	Value
 
 Annualized Return	[10.62%]
+
 Annualized Volatility (Risk)	[20.15%]
+
 Sharpe Ratio	[0.53]
+
 $10,000 Initial Investment Final Value	$[14.566,42]
 
 3. Optimal Portfolio Weights (Maximum return)
