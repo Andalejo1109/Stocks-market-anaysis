@@ -43,34 +43,38 @@ The following R packages are essential for running the analysis:
 
 The analysis yields two key portfolio structures: the current allocation and the mathematically optimal allocation based on the historical data (Max Sharpe).
 
-1. Current Portfolio Metrics (Since 2022)
-   
-Metric	Value
+---
 
-Annualized Return	[10.62%]
+### 1. Current Portfolio Metrics (Since 2022)
 
-Annualized Volatility (Risk)	[20.15%]
+This table summarizes the performance of the initial allocation.
 
-Sharpe Ratio	[0.53]
+| Metric | Value |
+| :--- | :--- |
+| **Annualized Return** | 10.62% |
+| **Annualized Volatility (Risk)** | 20.15% |
+| **Sharpe Ratio** | 0.53 |
+| **$10,000 Initial Investment Final Value** | \$14,566.42 |
 
-$10,000 Initial Investment Final Value	$[14.566,42]
+---
 
-3. Optimal Portfolio Weights (Maximum return)
-This allocation maximizes the return for every unit of risk taken.
+### 2. Optimal Portfolio Allocation (Maximum Sharpe Ratio)
 
-Asset	Optimal Weight
-VTI	[02 %]
-VOO	[02 %]
-SPYG	[0 %]
-SMH	[99.54 %]
-BRK.B	[042 %]
+This allocation maximizes the return for every unit of risk taken, achieving the highest efficiency on the Efficient Frontier (Tangency Portfolio).
 
-Optimal Metrics:
+| Asset | Optimal Weight |
+| :--- | :---: |
+| VTI | 2.00% |
+| VOO | 2.00% |
+| SPYG | 0.00% |
+| SMH | 95.58% |
+| BRK.B | 0.42% |
 
-Metric	Value
-Annualized Return (Optimal)	[13.18%]
-Annualized Volatility (Optimal)	[18.07%]
-Sharpe Ratio (Optimal)	[0.73]
+| Optimal Metrics | Value |
+| :--- | :--- |
+| **Annualized Return (Optimal)** | 13.18% |
+| **Annualized Volatility (Optimal)** | 18.07% |
+| **Sharpe Ratio (Optimal)** | 0.73 |
 
 ## 📝 Code Snippets for Analysis
 The core of the analysis involves downloading the data and running the optimization functions.
