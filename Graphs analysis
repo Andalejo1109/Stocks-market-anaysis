@@ -1,0 +1,12 @@
+Resumen de Análisis Gráfico de Activos (2022-2025)
+El análisis exploratorio revela que, desde 2022, el ETF tecnológico SMH (VanEck Semiconductors) ha sido el motor de rendimiento, 
+mostrando el mayor crecimiento de capital (la línea más alta en el gráfico de Evolución de Precios), superando consistentemente a los demás activos. 
+No obstante, esta rentabilidad viene acompañada del mayor riesgo, como se evidencia en la Distribución de Retornos Diarios y el Boxplot: 
+SMH exhibe la distribución más ancha y plana (mayor volatilidad) y el rango intercuartílico más grande (mayor dispersión central), 
+incluyendo algunos de los outliers de mayor magnitud (pérdidas y ganancias extremas). En contraste, los fondos de mercado amplio VTI y 
+VOO muestran la menor volatilidad, con distribuciones de retornos más estrechas y picudas y rangos en el boxplot más contenidos, aunque con rendimientos 
+de crecimiento significativamente menores. Por su parte, la acción BRK.B mantuvo una alta resiliencia inicial en 2022 (menor caída) y ha ofrecido un balance 
+de riesgo/retorno relativamente favorable, con una volatilidad similar o ligeramente menor a los fondos de mercado amplio, pero con un rendimiento total superior a ellos.
+
+En resumen: Tu portafolio está impulsado por el crecimiento agresivo de SMH y SPYG, pero SMH introduce la mayor porción de riesgo individual. 
+La optimización del portafolio se centrará en balancear el alto rendimiento de SMH con la menor volatilidad de VTI/VOO y el comportamiento estable de BRK.B.
